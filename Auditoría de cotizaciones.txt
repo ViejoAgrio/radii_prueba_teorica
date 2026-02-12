@@ -29,9 +29,9 @@ Problemas encontrados
 =======
 Q5 y Q6
 
-Volume Q5: 16 mm
+Volume Q5: 16 mm3
 Volume Q6: 250,000 mm3
-Density Titanium: 4.43 g/cm3 = 0.00443
+Density Titanium: 4.43 g/cm3 = 0.00443 g/mm3
 Weight Q5: 0.07gr
 Weight Q6: 1,107.5gr
 

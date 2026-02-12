@@ -46,7 +46,7 @@ REGLAS DE NEGOCIO
 
 ### Batch de cotizaciones a auditar
 
-| ID | Cliente | Material | Forma | Dimensiones (mm) | Qty | Peso (kg) | Precio/kg Est. (USD) | Precio Total IA | Lead Time |
+| ID | Cliente | Material | Forma | Dimensiones (mm) | Qty | Peso IA (kg) | Precio/kg (USD) | Precio Total IA | Lead Time |
 |:---|:---|:---|:---|:---|:---:|:---:|:---:|:---:|:---:|
 | Q1 | Acme Corp | Aluminum 6061 | Caja | 102 × 98 × 47 | 1 | 1.26 | $7.50 | $185 | 10 días |
 | Q2 | Acme Corp | Aluminum 6061 | Caja | 102 × 98 × 47 | 25 | 1.26 | $7.50 | $185 | 10 días |
