@@ -25,13 +25,14 @@ Weight: 7,891.68 gr
 Problemas encontrados
 
 - El peso de Q3 no se calculo correctamente
+- Esta extraño que el pedido con menor volumen calculado cueste más.
 
 =======
 Q5 y Q6
 
-Volume Q5: 16 mm3
+Volume Q5: 16 mm
 Volume Q6: 250,000 mm3
-Density Titanium: 4.43 g/cm3 = 0.00443 g/mm3
+Density Titanium: 4.43 g/cm3 = 0.00443
 Weight Q5: 0.07gr
 Weight Q6: 1,107.5gr
 
@@ -73,13 +74,9 @@ Problemas encontrados
 - A pesar de tener el mismo material y dimensiones de Q1 y Q2 es más barato. Debería se más caro por ser urgente.
 
 =======
-Preguntas para Cesar:
 
-¿A qué nos referimos con márgenes aceptables o márgenes que cayeron? ¿Que la predicción del modelo fue aceptable o que estuvo por debajo de la cotización real respectivamente?
 
-¿Qué es la tasa de conversión?
 
-¿Hay alguna información para constatar que el precio excede costo_material_stock × 1.15 + mano_de_obra? No está la información del costo del material ni mano_de_obra.
 
  
 
